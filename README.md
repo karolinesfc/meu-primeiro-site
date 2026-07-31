@@ -27,10 +27,6 @@ git clone https://github.com/SEU-USUARIO/meu-primeiro-site.git
 3. Execute o arquivo `index.html` em qualquer navegador.
    
 
-Screenshot
-
-![Página inicial](images/MeuPrimeiro-site.png)
-
 Desenvolvido por:
 
 Karoline Santana Feitosa Cardoso
