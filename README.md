@@ -29,13 +29,9 @@ git clone https://github.com/SEU-USUARIO/meu-primeiro-site.git
 
 Screenshot
 
-> Adicione aqui uma imagem da página quando o projeto estiver finalizado.
+![Página inicial](images/MeuPrimeiro-site.png)
 
-Exemplo:
-
-![Página inicial](images/home.png)
-
- Desenvolvido por:
+Desenvolvido por:
 
 Karoline Santana Feitosa Cardoso
 
